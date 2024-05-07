@@ -1,0 +1,44 @@
+html {
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+    margin: 0;
+}
+
+p {
+    text-indent: 30px;
+    word-spacing: -2px;
+}
+
+#borda {
+    background: rgba(0, 146, 0, 0.6);
+
+}
+
+nav ul {
+    list-style: none;
+}
+
+#baner {
+    color: white;
+    text-shadow: 2px 2px 10px black;
+}
+
+#baner2 {
+    width: 100vw;
+
+}
+
+#dia {
+    width: 250px;
+}
+
+.alphabeto {
+    text-decoration: none;
+}
+
+.borda1 {
+    text-decoration: none;
+}
